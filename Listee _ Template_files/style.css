@@ -4806,7 +4806,7 @@ a:focus {
   }
 }
 .testimonials-section .rightimg {
-  background-image: url(../img/testi-bg.png);
+  background-image: url(./testi-bg.png);
   min-height: 600px;
   background-repeat: no-repeat;
   background-size: cover;
